@@ -1,0 +1,71 @@
+{
+  "allIds": [1, 2, 3],
+  "byIds": {
+    "1": {
+      "name": "켄",
+      "image": "https://avatars.githubusercontent.com/u/3277615?v=4",
+      "chatList": [
+        {
+          "chat": "동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리 나라 만세",
+          "date": "2020년 12월 25일",
+          "time": "12시 45분",
+          "chatBy": "켄"
+        },
+        {
+          "chat": "무궁화 삼천리 화려강산  대한사람 대한으로 길이 보전하세",
+          "date": "2021년 12월 25일",
+          "time": "14시 45분",
+          "chatBy": "user"
+        },
+        {
+          "chat": "가나다라마바사아자차카타파하",
+          "date": "2022년 02월 28일",
+          "time": "15시 45분",
+          "chatBy": "켄"
+        }
+      ]
+    },
+    "2": {
+      "name": "조은별",
+      "image": "https://mario.wiki.gallery/images/thumb/8/8a/New_Super_Mario_Bros._U_Deluxe_Super_Star.png/1200px-New_Super_Mario_Bros._U_Deluxe_Super_Star.png",
+      "chatList": [
+        {
+          "chat": "조은별 입니다",
+          "date": "2019년 06월 17일",
+          "time": "02시 45분",
+          "chatBy": "조은별"
+        },
+        {
+          "chat": "아에이오우카키쿠케코사시스세소",
+          "date": "2021년 11월 24일",
+          "time": "06시 45분",
+          "chatBy": "user"
+        }
+      ]
+    },
+    "3": {
+      "name": "김채리",
+      "image": "https://media.istockphoto.com/photos/cherry-isolated-cherry-on-white-cherries-with-clipping-path-picture-id1147769256?k=20&m=1147769256&s=170667a&w=0&h=Nd0uWgagN069wfBi6QHq4ibmmqhql3t54ZHMdbi0xmE=",
+      "chatList": [
+        {
+          "chat": "남산 위에 저 소나무 철갑을 두른 듯 바람 서리 불변함은 우리 기상일세",
+          "date": "1998년 06월 17일",
+          "time": "15시 45분",
+          "chatBy": "user"
+        },
+        {
+          "chat": "가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심일세",
+          "date": "2002년 08월 08일",
+          "time": "16시 45분",
+          "chatBy": "김채리"
+        },
+        {
+          "chat": "이 기상과 이 맘으로 충성을 다하여 괴로우나 즐거우나 나라 사랑하세",
+          "date": "2017년 04월 01일",
+          "time": "17시 45분",
+          "chatBy": "김채리"
+        }
+      ]
+    }
+  }
+}
